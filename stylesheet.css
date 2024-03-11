@@ -1,0 +1,40 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #001133;
+	text-align: center;}
+
+nav {
+	background-color: #598BAF;
+	padding: 10px;
+	margin: 10px;
+}
+bordering {
+	border: 10px solid transparent;
+	padding: 15px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+
+}
+
+dd {
+	text-align: center;
+	display: inline;
+	padding: 5px;
+
+}
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #598BAF;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
